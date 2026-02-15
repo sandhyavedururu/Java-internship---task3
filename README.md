@@ -25,7 +25,8 @@ This project was completed as part of my internship task to strengthen my unders
 
 ## 📸 Screenshot
 
-<img width="1920" height="1200" alt="Negitive num handling" src="https://github.com/user-attachments/assets/63cf562e-138a-40a1-9f6f-3dccfdfed0d4" />
+<img width="1920" height="1200" alt="Negaitive num handling" src="https://github.com/user-attachments/assets/59a88c79-14aa-451e-8b2f-d10e4c90ea91" />
+
 
 
 ---
